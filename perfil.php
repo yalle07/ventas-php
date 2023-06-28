@@ -27,7 +27,7 @@ $cartas = [
 	<div class="text-center mt-3">
 		<a href="cambiar_password.php" class="btn btn-lg btn-primary">
 			<i class="fa fa-key"></i>
-			Cambiar contraseña
+			Cambiar contraseña pruebaaa
 		</a>
 	</div>
 </div>
